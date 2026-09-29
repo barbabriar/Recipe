@@ -1,0 +1,42 @@
+body{
+    background-color: lemonchiffon;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(203, 75, 96);
+}
+
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    border: 3px, red, groove;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.container{
+    display:flex;
+    column-gap: 50px;
+    /* background-color: rgb(232, 24, 24); */
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 25px 0px;
+    padding:25px;
+}
+
+em{
+    text-align: left;
+}
